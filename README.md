@@ -106,6 +106,6 @@ Keep the Serial Monitor open while the simulation runs. Watch the `[TIMER EVENT]
 
 The demonstration video shows the circuit, code, SAFE/WARNING/ALARM tests, and PCI events operating alongside Timer1 updates.
 
-**Demonstration video link:** [Add your working video link here.
-](https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=3a3708b5-6598-4c86-ad56-b4e000548461) 
+**Demonstration video link:** 
+(https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=3a3708b5-6598-4c86-ad56-b4e000548461) 
 #
